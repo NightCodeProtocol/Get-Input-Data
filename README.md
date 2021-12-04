@@ -1,3 +1,5 @@
+![Step 1](https://github.com/NightCodeProtocol/Get-Input-Data/raw/main/help/poster.png)
+
 # Get Input Data
 Get Files From Input Type File Using jQuery
 

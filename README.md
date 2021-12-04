@@ -38,3 +38,7 @@ The URL.createObjectURL() method is used. This is an experimental technology. Fo
 4. Inserts the contents of the selected text file on the page, after the element with the class ".img-uploaded"
 
 > `fileLoad($(this), $(this).parents('.input-group').find('.img-uploaded'), 'FileReader', 'text');`
+
+____
+
+<a href="https://jsfiddle.net/k59hgupr/"><img src="https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=1,format=auto/https%3A%2F%2Fdocs.jsfiddle.net%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-L9jXGYtvV0gDWqyZIc-%252Favatar.png%3Fgeneration%3D1539250045463064%26alt%3Dmedia">Live example on JSFiddle</a>
